@@ -121,6 +121,7 @@
     line-height: 10px;
     text-align: center;
     color: #0a3871;
+    margin-left: 20px;
 }
 
 .btn-desencriptar:hover,
@@ -128,6 +129,7 @@
     margin: 0.3%;
     width: 24.5%;
     padding: 1.8%;
+    
 }
 
 .encriptado {
